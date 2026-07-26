@@ -1,0 +1,14 @@
+streamlit
+numpy
+pandas
+librosa
+praat-parselmouth
+faster-whisper
+spacy
+jieba
+onnxruntime
+plotly
+fpdf2
+joblib
+scikit-learn
+kaleido
