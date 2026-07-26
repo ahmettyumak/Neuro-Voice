@@ -16,7 +16,7 @@ NeuroVoice, ses ve dilsel verileri entegre bir şekilde işleyerek çok modlu (m
 
 ## Proje Ekibi
 * **Proje Danışmanı:** Dr. Öğr. Üyesi Mehmet Kürşat Öksüz
-* **Proje Ekibi:** Ahmet Yumak, Hamza Çiçek, mkoksuz
+* **Proje Ekibi:** Ahmet Yumak, Hamza Çiçek
 
 ## Lisans
 Bu proje üniversite bitirme projesi (Temmuz 2026) kapsamında akademik amaçlarla geliştirilmiştir.
